@@ -30,7 +30,7 @@ namespace WebApplication1.Controllers
         }
         public ActionResult Pankaj()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page.Your contact page.";
 
             return View();
         }
